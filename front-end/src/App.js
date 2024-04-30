@@ -12,8 +12,8 @@ const App = () => (
     <SpecialMenu />
     <Chef />
     <Laurels />
-    {/* <Gallery />
-    <FindUs />
+    <Gallery />
+    {/* <FindUs />
     <Footer />  */}
   </div>
 );
